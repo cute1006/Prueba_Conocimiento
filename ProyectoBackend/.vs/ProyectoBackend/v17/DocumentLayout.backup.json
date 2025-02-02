@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Guadalupe\\guadalupe\\Backend c#\\ProyectoBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C50A6FB-D3C7-44C6-B265-FCA5A8FB4AD9}|ProyectoBackend\\ProyectoBackend.csproj|c:\\guadalupe\\guadalupe\\backend c#\\proyectobackend\\proyectobackend\\proyectobackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C50A6FB-D3C7-44C6-B265-FCA5A8FB4AD9}|ProyectoBackend\\ProyectoBackend.csproj|solutionrelative:proyectobackend\\proyectobackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C50A6FB-D3C7-44C6-B265-FCA5A8FB4AD9}|ProyectoBackend\\ProyectoBackend.csproj|c:\\guadalupe\\guadalupe\\backend c#\\proyectobackend\\proyectobackend\\controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C50A6FB-D3C7-44C6-B265-FCA5A8FB4AD9}|ProyectoBackend\\ProyectoBackend.csproj|solutionrelative:proyectobackend\\controllers\\marcasautoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C50A6FB-D3C7-44C6-B265-FCA5A8FB4AD9}|ProyectoBackend\\ProyectoBackend.csproj|c:\\guadalupe\\guadalupe\\backend c#\\proyectobackend\\proyectobackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C50A6FB-D3C7-44C6-B265-FCA5A8FB4AD9}|ProyectoBackend\\ProyectoBackend.csproj|solutionrelative:proyectobackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProyectoBackend",
+              "DocumentMoniker": "C:\\Guadalupe\\guadalupe\\Backend c#\\ProyectoBackend\\ProyectoBackend\\ProyectoBackend.csproj",
+              "RelativeDocumentMoniker": "ProyectoBackend\\ProyectoBackend.csproj",
+              "ToolTip": "C:\\Guadalupe\\guadalupe\\Backend c#\\ProyectoBackend\\ProyectoBackend\\ProyectoBackend.csproj",
+              "RelativeToolTip": "ProyectoBackend\\ProyectoBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T08:23:12.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarcasAutosController.cs",
+              "DocumentMoniker": "C:\\Guadalupe\\guadalupe\\Backend c#\\ProyectoBackend\\ProyectoBackend\\Controllers\\MarcasAutosController.cs",
+              "RelativeDocumentMoniker": "ProyectoBackend\\Controllers\\MarcasAutosController.cs",
+              "ToolTip": "C:\\Guadalupe\\guadalupe\\Backend c#\\ProyectoBackend\\ProyectoBackend\\Controllers\\MarcasAutosController.cs",
+              "RelativeToolTip": "ProyectoBackend\\Controllers\\MarcasAutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T06:31:29.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Guadalupe\\guadalupe\\Backend c#\\ProyectoBackend\\ProyectoBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProyectoBackend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Guadalupe\\guadalupe\\Backend c#\\ProyectoBackend\\ProyectoBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProyectoBackend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T06:21:19.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
